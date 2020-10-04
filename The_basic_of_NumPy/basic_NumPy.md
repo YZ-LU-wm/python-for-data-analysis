@@ -1808,11 +1808,11 @@ np.log2(arr2)
 
 
 **8、符号函数`np.sign(array)`计算每个元素的符号值。**<br>
-$y=\left\{\begin{matrix}
+$$y=\left\{\begin{matrix}
 1 ,&x>0  & \\ 
 0 ,&x=0  & \\ 
  -1,&x<0  & 
-\end{matrix}\right.$
+\end{matrix}\right.$$
 
 
 ```python
